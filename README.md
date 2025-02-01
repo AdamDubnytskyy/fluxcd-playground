@@ -1,0 +1,2 @@
+# fluxcd-playground
+FluxCD playground
