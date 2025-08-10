@@ -11,7 +11,7 @@ spec:
     branch: main
   secretRef:
     name: flux-system
-  url: ssh://git@github.com/AdamDubnytskyy/fluxcd-playground
+  url: https://github.com/AdamDubnytskyy/fluxcd-playground.git
 ---
 apiVersion: kustomize.toolkit.fluxcd.io/v1
 kind: Kustomization
